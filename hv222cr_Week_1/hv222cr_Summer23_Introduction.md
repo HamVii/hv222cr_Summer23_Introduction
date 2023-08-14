@@ -13,12 +13,11 @@ Having a deep rooted interest in computers and tech this 180-turn in direction o
 1. Repos! Why they should have a place in my life.
 2. Terminals! What they are and why we need to become friends.
 3. That this is something that'll need some work 
-`code
     <html>
         <head>
             <title>Hello there</title>
         </head>
-    </html>`
+    </html>
 
 I've learnt many other important things during my time on earth like;
 - How to throw together some quite decent cocktails (balance is the key, like with the Force!)
